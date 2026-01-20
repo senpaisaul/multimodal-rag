@@ -4,6 +4,9 @@
 A **production-grade multimodal Retrieval-Augmented Generation (RAG)** system that can **read, understand, and reason over both text and images inside PDFs**.  
 Built with **Groq-hosted LLMs**, **vision + OCR**, **FAISS semantic search**, and a **modern Streamlit UI**.
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-brightgreen)](https://multimodal-rag-bhzhj2pbvlf4uk2zngchj9.streamlit.app/)
+
+
 ---
 
 ## ✨ What makes this special?
@@ -83,3 +86,4 @@ pip install -r requirements.txt
 ```bash
 python -m streamlit run app.py
 ```
+
