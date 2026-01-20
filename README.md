@@ -71,3 +71,15 @@ This one understands **what’s inside images too** — charts, tables, diagrams
 python -m venv venv
 venv\Scripts\activate      # Windows
 source venv/bin/activate   # macOS / Linux
+```
+### 2️⃣ Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Start the app
+
+```bash
+python -m streamlit run app.py
+```
